@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "208012404996",
+    "firebase_url": "https://firestore-cdf3d.firebaseio.com",
+    "project_id": "firestore-cdf3d",
+    "storage_bucket": "firestore-cdf3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208012404996:android:6ea0df3b3673ffb4bb0851",
+        "android_client_info": {
+          "package_name": "com.alexby.publicaroferta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208012404996-sna0s0gtlu3g8nfic6is5u5qdjgured9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiVwVK1v6a7tR6_aDfcGn5od4USIQbudA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208012404996-sna0s0gtlu3g8nfic6is5u5qdjgured9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
